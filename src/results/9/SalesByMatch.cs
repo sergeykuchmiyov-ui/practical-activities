@@ -1,3 +1,5 @@
+//https://www.hackerrank.com/challenges/sock-merchant/problem
+
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
 using System.Collections;
