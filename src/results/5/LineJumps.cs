@@ -1,3 +1,5 @@
+//https://www.hackerrank.com/challenges/kangaroo/problem
+
 using System;
 
 class Result
